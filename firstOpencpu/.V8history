@@ -1,3 +1,0 @@
-var prueba = [1,21,3312,12,31,213,12]
-Math.log(prueba)
-Math.log(prueba[1])
